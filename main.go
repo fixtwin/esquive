@@ -12,6 +12,11 @@ func main() {
 			fmt.Println(i)
 		}
 	}
+	x := 42 + 5
+	fmt.Println(x)
+	y := 99
+	fmt.Println(y)
+
 }
 
 func foo() {
